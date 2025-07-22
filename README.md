@@ -33,4 +33,4 @@ Para ejecutar este proyecto, asegúrate de tener instalado Python en tu sistema.
    Si aún no tienes el repositorio, clónalo usando el siguiente comando:
 
    ```bash
-   git clone https://github.com/tu_usuario/astar-maze-solver.git
+   https://github.com/huahuaccapa/laberinto-pythom.git
